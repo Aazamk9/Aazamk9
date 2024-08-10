@@ -12,10 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="INSERT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="INSERT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="INSERT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aazam-k-35aab52ba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/INSERT 
-[instagram]: https://www.instagram.com/INSERT
-[linkedin]: https://linkedin.com/in/INSERT
+[linkedin]: https://linkedin.com/in/aazam-k-35aab52ba/
